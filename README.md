@@ -3,9 +3,9 @@
 This repository contains Standard Operating Procedures (SOPs) for data users of Answer ALS. The SOPs are publicly accessible and aim to ensure consistent, reliable and high-quality data handling and usage.
 
 ## Repository Contents
-- SOPs are organized by topic and stored as `.pdf` files in the appropriate folders.
-- A `versions` folder is included to keep track of updates to the SOPs.
-- The latest version of each SOP can be found in the root directory of the repository.
+- The repository contains a single folder 'Answer ALS Standard Operating Procedures' which holds all SOPs.
+- Each SOP is stored as a .pdf file and is named in the format [SOP Number]. ANSWER-ALS SOP [SOP Name].
+- The latest version of each SOP can be found in the 'Answer ALS Standard Operating Procedures' folder.
 
 ## Contribution Guidelines
 
