@@ -5,6 +5,7 @@ This repository contains Standard Operating Procedures (SOPs) for data users of 
 ## Repository Contents
 - The repository contains a single folder 'Answer ALS Standard Operating Procedures' which holds all SOPs.
 - Each SOP is stored as a .pdf file and is named in the format [SOP Number]. ANSWER-ALS SOP [SOP Name].
+  - Ex: 1. ANSWER-ALS SOP Data Upload Process
 - The latest version of each SOP can be found in the 'Answer ALS Standard Operating Procedures' folder.
 
 ## Contribution Guidelines
